@@ -1,5 +1,7 @@
 # NLW#4 :rocket:
 
+*Minhas anotações das aulas*
+
 <br>
 
 <br>
