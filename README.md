@@ -1,6 +1,10 @@
 # NLW#4 :rocket:
 
-*Minhas anotações das aulas*
+- [Segunda (22/02/2021) - Trilha Elixir - Rumo ao Próximo Nível](#segunda-22022021)
+
+
+
+
 
 <br>
 
@@ -370,6 +374,12 @@ end
 - Código da aula
 
 #rumoaoproximonivel
+
+
+
+
+
+
 
 
 
